@@ -1,0 +1,22 @@
+body {
+    background: #ffb0b0;
+    background: linear-gradient(to right, #ffeaea, #ffb0b0);
+    color: #fff;
+    font-family: "Kumbh Sans", sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+canvas {
+    border: solid 0.2em #fff;
+    height: 90vh;
+}
+
+.HowToMove {
+    color: #fff;
+    
+}
+
+#score{
+    font-size: 1.2em;
+}
